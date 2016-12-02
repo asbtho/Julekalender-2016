@@ -1,3 +1,5 @@
+// O(n) solution
+
 function fib(){
 	num = 1;
 	num2 = 0;
